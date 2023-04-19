@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^0.17.3",
+    "nodemon": "^2.0.22",
+    "server": "^1.0.38"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "server":"nodemon server.js"
+    
+  },
+  "name": "json_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
