@@ -2,23 +2,23 @@
   "products": [
     {
       "name": "Gurpreet",
-      "price": "gsandha@gmail.in"
-    
+      "price": "gsandha@gmail.in",
+      "id": 1
     },
     {
       "name": "Gurpreet",
-      "email": "sandhagurpreet0@gmail.com"
-    
+      "email": "sandhagurpreet0@gmail.com",
+      "id": 7
     },
     {
       "name": "Gurpreet",
-      "email": "sandhagurpreet0@gmail.com"
-      
+      "email": "sandhagurpreet0@gmail.com",
+      "id": 11
     },
     {
       "name": "Gurpreet",
-      "email": "eve.holt@reqres.in"
-      
+      "email": "eve.holt@reqres.in",
+      "id": 12
     }
   ]
 }
