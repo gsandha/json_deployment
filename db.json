@@ -1,26 +1,11 @@
 {
-  "hotels":[
+  "dogs": [
     {
-      "category": "deluxe",
-      "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2022/11/Top-Gun-Maverick-Cruise-Still-Paramout-Publicity-H-2022.jpg?w=1296",
-      "type_of_room": "non-ac",
-      "bed_type": "deluxe",
-      "no_of_persons": 45678,
-      "capacity": 34567,
-      "cost": 34567,
-      "booked": true,
-      "id": 1
-    },
-    {
-      "category": "family",
-      "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2022/11/Top-Gun-Maverick-Cruise-Still-Paramout-Publicity-H-2022.jpg?w=1296",
-      "type_of_room": "ac",
-      "bed_type": "deluxe",
-      "no_of_persons": 54,
-      "capacity": 7,
-      "cost": 5467,
-      "booked": false,
-      "id": 2
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
     }
   ]
 }

@@ -7,5 +7,5 @@ server.use(middlewares)
 server.use(router)
 
 server.listen(port,()=>{
-console.log("Welcome to port")
+console.log("Your server is up and running at port 3001 congratulations")
 })
