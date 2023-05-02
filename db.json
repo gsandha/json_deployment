@@ -38,5 +38,17 @@
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
+  ],
+  "products":[
+    {
+      "id":1,
+      "image":"",
+      "name":"Adidas",
+      "description":"Best trousers in the market",
+      "gender":"Male",
+      "category":"Trousers",
+      "price":5000
+
+    }
   ]
 }
