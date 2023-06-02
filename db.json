@@ -59,5 +59,13 @@
       "keystrokes": 0,
       "id": 18
     }
+  ],
+  "users": [
+    {
+      "deposit": "ACH",
+      "frequency": "One Time",
+      "transaction": "60-days-rollover",
+      "id": 1
+    }
   ]
 }
