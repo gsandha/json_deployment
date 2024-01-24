@@ -75,11 +75,25 @@
       "quantity":5,
       "personName":"gsandha",
       "date":"10/10/2021"
+    },
+    {
+      "id":2,
+      "sparepartName":"oil",
+      "quantity":5,
+      "personName":"gsandha",
+      "date":"10/10/2021"
     }
   ],
   "sells":[
     {
       "id":1,
+      "productName":"10L Premium Oil",
+      "openingStock":350,
+      "availableStock":160,
+      "model":"855FE Old Show"
+    },
+    {
+      "id":2,
       "productName":"10L Premium Oil",
       "openingStock":350,
       "availableStock":160,
