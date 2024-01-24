@@ -67,5 +67,23 @@
       "transaction": "60-days-rollover",
       "id": 1
     }
+  ],
+  "spareparts":[
+    {
+      "id":1,
+      "sparepartName":"oil",
+      "quantity":5,
+      "personName":"gsandha",
+      "date":"10/10/2021"
+    }
+  ],
+  "sells":[
+    {
+      "id":1,
+      "productName":"10L Premium Oil",
+      "openingStock":350,
+      "availableStock":160,
+      "model":"855FE Old Show"
+    }
   ]
 }
